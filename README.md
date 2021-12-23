@@ -37,6 +37,3 @@ A BOT TO DOWNLOAD SONGS FROM YOUTUBE.
 </details>
 
 
-# support Group
-
-- [Click Here To Reach Our Support Group](https://t.me/NAZRIYASUPPORT) 
